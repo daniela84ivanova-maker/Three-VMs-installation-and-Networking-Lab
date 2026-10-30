@@ -7,4 +7,4 @@ Each VM could successfully ping the other two.
 
 
 
-(pings.png)
+![Successful ping tests between the three virtual machines](pings.png)
